@@ -14,6 +14,8 @@ const Navigation = () => {
             <Nav.Link href as={Link} to="/basic">Basic-Nav</Nav.Link>
             <Nav.Link href as={Link} to="/nav-2">Nav-2</Nav.Link>
             <Nav.Link href as={Link} to="/nav-3">Nav-3</Nav.Link>
+            <Nav.Link href as={Link} to="/file-upload">File Upload</Nav.Link>
+            <Nav.Link href as={Link} to="/file-convert">File Convert</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
